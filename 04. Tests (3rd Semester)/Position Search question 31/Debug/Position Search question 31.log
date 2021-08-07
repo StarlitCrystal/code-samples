@@ -1,0 +1,12 @@
+﻿K:\Visual Studio\Visual\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(452,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Position Search question 31.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Main.cpp
+E:\SCHOOL\3. Spring 2020 Classes\GAM-345\Final Exam\Tests\Position search question 31\Main.cpp(43,20): warning C4018:  '<': signed/unsigned mismatch
+E:\SCHOOL\3. Spring 2020 Classes\GAM-345\Final Exam\Tests\Position search question 31\Main.cpp(50,21): warning C4018:  '<': signed/unsigned mismatch
+E:\SCHOOL\3. Spring 2020 Classes\GAM-345\Final Exam\Tests\Position search question 31\Main.cpp(64,21): warning C4018:  '<': signed/unsigned mismatch
+E:\SCHOOL\3. Spring 2020 Classes\GAM-345\Final Exam\Tests\Position search question 31\Main.cpp(66,22): warning C4018:  '<': signed/unsigned mismatch
+E:\SCHOOL\3. Spring 2020 Classes\GAM-345\Final Exam\Tests\Position search question 31\Main.cpp(92,20): warning C4018:  '<': signed/unsigned mismatch
+E:\SCHOOL\3. Spring 2020 Classes\GAM-345\Final Exam\Tests\Position search question 31\Main.cpp(99,21): warning C4018:  '<': signed/unsigned mismatch
+E:\SCHOOL\3. Spring 2020 Classes\GAM-345\Final Exam\Tests\Position search question 31\Main.cpp(113,21): warning C4018:  '<': signed/unsigned mismatch
+E:\SCHOOL\3. Spring 2020 Classes\GAM-345\Final Exam\Tests\Position search question 31\Main.cpp(115,22): warning C4018:  '<': signed/unsigned mismatch
+E:\SCHOOL\3. Spring 2020 Classes\GAM-345\Final Exam\Tests\Position search question 31\Main.cpp(149): warning C4715:  'FlyToLocation': not all control paths return a value
+  Position Search question 31.vcxproj -> E:\SCHOOL\3. Spring 2020 Classes\GAM-345\Final Exam\Tests\Position search question 31\Debug\Position Search question 31 and 32.exe
