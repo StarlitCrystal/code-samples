@@ -1,0 +1,5 @@
+﻿  Main.cpp
+E:\SCHOOL\3. Spring 2020 Classes\GAM-345\Final Exam\Tests\WarAndPeace\Main.cpp(30,21): warning C4018:  '<': signed/unsigned mismatch
+E:\SCHOOL\3. Spring 2020 Classes\GAM-345\Final Exam\Tests\WarAndPeace\Main.cpp(72,54): warning C4244:  'argument': conversion from 'double' to 'const unsigned int', possible loss of data
+E:\SCHOOL\3. Spring 2020 Classes\GAM-345\Final Exam\Tests\WarAndPeace\Main.cpp(72,124): warning C4244:  'argument': conversion from 'double' to 'const unsigned int', possible loss of data
+  WarAndPeace.vcxproj -> E:\SCHOOL\3. Spring 2020 Classes\GAM-345\Final Exam\Tests\WarAndPeace\Debug\WarAndPeace.exe
