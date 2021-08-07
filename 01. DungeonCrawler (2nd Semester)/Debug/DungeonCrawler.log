@@ -1,0 +1,3 @@
+﻿  CommandManager.cpp
+E:\SCHOOL\2. Fall 2019 Classes\GAM-220\Dungeon Crawler Lab\DungeonCrawler\CommandManager.cpp(16,20): warning C4018:  '<': signed/unsigned mismatch
+  DungeonCrawler.vcxproj -> E:\SCHOOL\2. Fall 2019 Classes\GAM-220\Dungeon Crawler Lab\DungeonCrawler\Debug\DungeonCrawler.exe
