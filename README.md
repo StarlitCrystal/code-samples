@@ -15,13 +15,8 @@ back to find the item.
 was included on the test).
 
 
-05. C++ AudioGenerator - NOT ALL MY CODE. My code is in SampleGenerators.cpp in the form of the Sint16 Get"X"Sample, where
-we were to make our own sound waves. My code in main.cpp is labeled //My song - Kyle Bernelle, which is mainly 'if' statements 
-to signal different keystroke commands and then the "song" I created using my own wave samples.
+05. C# Racetrack Creator - Code for building a racetrack in Unity using assets in-game for a Mario Kart clone for a client.
 
 
-06. C# Racetrack Creator - Code for building a racetrack in Unity using assets in-game for a Mario Kart clone for a client.
-
-
-07. C# Random Scripts - Some code that was used for a design analysis project for a puzzle-type game (NO COMMENTS inside code as 
+06. C# Random Scripts - Some code that was used for a design analysis project for a puzzle-type game (NO COMMENTS inside code as 
 the code was secondary to the project's grade, and had a time-limit)
